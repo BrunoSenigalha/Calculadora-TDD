@@ -1,0 +1,14 @@
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\bin\Debug\net7.0\Calculadora TDD.exe
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\bin\Debug\net7.0\Calculadora TDD.deps.json
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\bin\Debug\net7.0\Calculadora TDD.runtimeconfig.json
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\bin\Debug\net7.0\Calculadora TDD.dll
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\bin\Debug\net7.0\Calculadora TDD.pdb
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.AssemblyInfoInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.AssemblyInfo.cs
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.csproj.CoreCompileInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.dll
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\refint\Calculadora TDD.dll
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.pdb
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\Calculadora TDD.genruntimeconfig.cache
+C:\Users\Daiane Dias\Desktop\C#\Programas do Curso\Calculadora TDD\Calculadora TDD\obj\Debug\net7.0\ref\Calculadora TDD.dll
